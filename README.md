@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Muhammad Aqeel
+- 👀 I’m interested in Web Development, Software Development and Computer Security 
+- 🌱 I’m currently learning Web Development and Software Development
+- 💞️ I’m curious about almost any new technological trends and looking forward to collaborating on any above-mentioned interested fields.
+- 📫 Reach me via [Linkedin](https://www.linkedin.com/in/aqeel-j/), [Instagram](https://www.instagram.com/_aqeel_j/), [Facebook](https://www.facebook.com/muhammed.aqeel.927)
