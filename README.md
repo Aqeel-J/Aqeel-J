@@ -9,7 +9,7 @@ Engineer focused on building scalable enterprise applications, high-performance 
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Aqeel-j&color=blue&style=for-the-badge" />
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aqeel-j/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aqeel%20Jabir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
